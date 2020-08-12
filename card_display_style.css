@@ -1,0 +1,45 @@
+body {
+  background-color: #B3B3B3;
+  font-family: 'Patrick Hand', cursive;
+  font-size: large;
+}  
+
+.cards {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.card {
+  display: flex;
+  height: 350px;
+  width: 250px;
+  margin: 0px auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile_pic {
+  height: 295px;
+  width: 195px;
+  padding: 15px;
+}
+
+#charizard {
+  background-color: #F8A288;
+}
+
+#spanish {
+  background-color: #75D301;
+}
+
+#vaporeon {
+  background-color: #7EBDC3;
+}
+
+#damage {
+  background-color: #C0A456;
+}
+
+#momo {
+  background-color: #A823E8;
+}
